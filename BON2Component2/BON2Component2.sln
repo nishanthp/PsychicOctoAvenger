@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BON2Component2", "BON2Component2\BON2Component2.vcxproj", "{E9694D24-E89C-4D1C-9CE6-B34C3BB47232}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9694D24-E89C-4D1C-9CE6-B34C3BB47232}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E9694D24-E89C-4D1C-9CE6-B34C3BB47232}.Debug|Win32.Build.0 = Debug|Win32
+		{E9694D24-E89C-4D1C-9CE6-B34C3BB47232}.Release|Win32.ActiveCfg = Release|Win32
+		{E9694D24-E89C-4D1C-9CE6-B34C3BB47232}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
